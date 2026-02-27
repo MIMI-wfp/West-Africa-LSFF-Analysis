@@ -1,7 +1,7 @@
 West Africa LSFF Analysis
 
 Harmonized analysis of micronutrient inadequacy and access to fortifiable staples across 10 West African countries, with reproducible code and maps.
-Countries: Benin, Burkina Faso, Côte d’Ivoire, Ghana, Guinea‑Bissau, Mali, Niger, Nigeria, Senegal, Togo
+Countries: Benin, Burkina Faso, Côte d’Ivoire, Ghana, Guinea‑Bissau, Mali, Niger, Nigeria, Senegal, Togo.
 Nutrients: Vitamin A, Iron, Zinc, Folate, Vitamin B12 
 
 🔎 Background
@@ -14,15 +14,14 @@ Disaggregation by country (national), geography (ADM1/ADM2), and socioeconomic p
 
 🧪 Methods (summary)
 
-Data: Household Consumption and Expenditure Surveys (HCES) from 10 West African countries
-Framework: Nutrient supply modeling using household apparent intakes, converted to adult female equivalent (AFE)
+Data: Household Consumption and Expenditure Surveys (HCES) from 10 West African countries.
 Estimates:
 MPI and % of households at risk of inadequacy for vitamin A, iron, zinc, folate, vitamin B12 and
 Food vehicle reach and median per capita daily consumption for major staples
 
 📊 Key Results (high‑level)
 
-National MPIs ranged 0.56–0.73, indicating widespread inadequacy
+National MPIs ranged 0.56–0.73, indicating widespread inadequacy.
 50% of households vulnerable to iron, zinc, and folate inadequacy across all countries, 
 Vitamin A and B12 inadequacy substantial in several contexts, 
 Vulnerability is geographically patterned and higher among poorer households, 
