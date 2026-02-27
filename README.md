@@ -17,7 +17,7 @@ Disaggregation by country (national), geography (ADM1/ADM2), and socioeconomic p
 Data: Household Consumption and Expenditure Surveys (HCES) from 10 West African countries.
 Estimates:
 MPI and % of households at risk of inadequacy for vitamin A, iron, zinc, folate, vitamin B12 and
-Food vehicle reach and median per capita daily consumption for major staples
+Food vehicle reach and disaggregated per capita daily consumption for major staples
 
 📊 Key Results (high‑level)
 
