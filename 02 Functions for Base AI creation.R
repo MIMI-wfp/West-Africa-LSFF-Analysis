@@ -1,4 +1,4 @@
-# Author: Uchenna Agu
+# Authors: Uchenna Agu, Kevin Tang, Mohammed Osman, Gabriel Battcock
 # Use: Functions and script for Base AI
 
 
@@ -209,5 +209,6 @@ nga_base_ai <- process_food_consumption("nga_lss1819_hh_info.csv",
 gha_base_ai <- process_food_consumption("gha_glss17_hh_info.csv",
                                         "gha_food_consumption.csv",
                                         "gha_glss17_fct.csv")
+
 
 
