@@ -1,4 +1,4 @@
-# Authors: Uchenna Agu, Kevin Tang
+# Authors: Uchenna Agu, Kevin Tang, Daniel Hernandez
 # Use: Food Consumption and Household Demography extraction script for West Africa (EHCVM)
 # Data Sources: Enquête Harmonisée sur le Conditions de Vie des Ménages, 2021-20122
 
@@ -479,3 +479,4 @@ process_country <- function(country_code) {
 # Write data
 
 write_csv(hh_info, "processed_data/wa_country_ehcvm2122/wa_country_ehcvm2122_hh_info.csv")
+
