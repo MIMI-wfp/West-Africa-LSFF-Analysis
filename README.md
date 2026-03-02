@@ -1,6 +1,6 @@
 West Africa LSFF Analysis
 
-Harmonized analysis of micronutrient inadequacy and access to fortifiable staples across 10 West African countries, with reproducible code and maps.
+Harmonized analysis of micronutrient inadequacy and access to fortifiable staples across 10 West African countries, with reproducible codes and maps.
 Countries: Benin, Burkina Faso, Côte d’Ivoire, Ghana, Guinea‑Bissau, Mali, Niger, Nigeria, Senegal, Togo.
 Nutrients: Vitamin A, Iron, Zinc, Folate, Vitamin B12 
 
