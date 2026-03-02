@@ -1,4 +1,5 @@
 ############################################################
+Authors: Uchenna Agu, Kevin Tang
 # 0. PACKAGES
 ############################################################
 
@@ -303,3 +304,4 @@ ggsave("wa_MPI_main.png",
 ggsave("wa_MPI_main_no_inset.png",
        plot = main_map, width = 10, height = 6,
        dpi = 300, bg="white")
+
